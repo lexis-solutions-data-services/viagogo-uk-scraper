@@ -17,7 +17,24 @@ Capture Viagogo UK ticket availability and pricing straight from the source.
 | Stat | Value |
 |------|-------|
 | **Version** | `1.0.1` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
+
+---
+
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `viagogo-uk-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
 
 ---
 
